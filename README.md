@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiKami" />
 </a>
+
+I'm a junior high school student. The languages I can use are Ruby and JavaScript. The framework is Ruby and Rails, and the JavaScript is Nuxt.js. thank you.
