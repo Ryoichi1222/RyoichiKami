@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a junior high school student. The languages I can use are Ruby and JavaScript. The framework is Ruby and Rails, and the JavaScript is Nuxt.js. thank you.
+I'm a junior high school student. I’m Japanese.<br>
+The languages I can use are Ruby and JavaScript. The framework is Ruby and Rails, and the JavaScript is Nuxt.js. thank you.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
