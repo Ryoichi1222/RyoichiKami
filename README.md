@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a junior high school student. I’m Japanese.<br>
-The languages I can use are Ruby and JavaScript. The framework is Ruby and Rails, and the JavaScript is Nuxt.js. thank you.
+The languages available are Ruby and JavaScript. The frameworks are Rails for Ruby and Nuxt.js for JavaScript. Sometimes I use Flutter.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
